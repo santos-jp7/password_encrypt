@@ -1,0 +1,26 @@
+{
+  "name": "passwordencrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "knex": "^0.21.12",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santos-jp7/password_encrypt.git"
+  },
+  "author": "Jean Pierre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santos-jp7/password_encrypt/issues"
+  },
+  "homepage": "https://github.com/santos-jp7/password_encrypt#readme"
+}
